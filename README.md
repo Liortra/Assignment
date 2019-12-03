@@ -1,4 +1,4 @@
-# portfolio
+# Assignment
 Hello everyone,
 
-My name is Lior Trachtman, and here is my portfolio
+This is where all my homework is during my software engineering studies
